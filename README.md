@@ -21,4 +21,5 @@ c. Stochastic greedy
 d. Multi-stage greedy
 
 Companion paper : Scaling Submodular Optimization Approaches for Control Applications in Networked Systems
+
 Link : https://arxiv.org/pdf/1810.02837.pdf
