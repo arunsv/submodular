@@ -13,8 +13,11 @@ This repo provides for a collection of routines for using submodular optimizatio
 
 The various submodular optimization flows considered are:
 a. Ordinary greedy
+
 b. Greedy with lazy evaluations
+
 c. Stochastic greedy
+
 d. Multi-stage greedy
 
 Companion paper : Scaling Submodular Optimization Approaches for Control Applications in Networked Systems
